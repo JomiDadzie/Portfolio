@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cf3b4b5700133744686090070879e720
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - JumpS: {fileID: 8300000, guid: baae50673072b6c439489d242452ae7c, type: 3}
+  - JumpB: {fileID: 8300000, guid: fd1d4c22b741dc743b62916d95421fda, type: 3}
+  - ColS: {fileID: 8300000, guid: b17406d7b3f528f45926fa22dacd36e2, type: 3}
+  - ColB: {fileID: 8300000, guid: 8bc470cb9400f1c4aaf47038e00f570d, type: 3}
+  - RollB: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
